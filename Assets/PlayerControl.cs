@@ -5,7 +5,7 @@ public class PlayerControl : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+
 	}
 	
 	// FixedUpdate is called once per tick
